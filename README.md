@@ -1,2 +1,2 @@
 # hello-world
-I am abegginer in software developer
+I am a begginer in software developer
